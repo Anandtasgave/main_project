@@ -13,3 +13,7 @@ npm i -D nodemon
 git status
 git add .
 git commit -m "Setup of project files"
+
+npm i -D prettier
+
+create and update .prettierrc
