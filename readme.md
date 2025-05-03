@@ -1,3 +1,5 @@
+//1
+
 npm init
 
 git add .
@@ -17,3 +19,19 @@ git commit -m "Setup of project files"
 npm i -D prettier
 
 create and update .prettierrc
+
+
+
+
+//2
+mongo cluster creation and setup
+
+npm i express mongoose dotenv
+
+update /src/index.js
+
+create and update /src/db/index.js
+
+update /src/index.js
+
+update dev script in package.json
