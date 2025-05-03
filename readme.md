@@ -35,3 +35,17 @@ create and update /src/db/index.js
 update /src/index.js
 
 update dev script in package.json
+
+
+
+
+//3
+npm i cookie-parser cors
+
+update /src/app.js
+
+create and update /src/utils/asyncHandler
+
+create and update /src/utils/ApiError
+
+create and update /src/utils/ApiResponse
