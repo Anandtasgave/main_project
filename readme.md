@@ -77,3 +77,11 @@ npm i multer
 create and update /src/utils/cloudinary
 
 update .env
+
+//6
+
+update usercontroller , user routes, app.js
+ 
+test route on postman
+
+//7
