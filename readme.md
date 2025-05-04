@@ -67,3 +67,13 @@ update .env
     REFRESH_TOKEN_EXPIRY=10d
 
 update /src/models/user
+
+//5
+
+npm i cloudinary
+
+npm i multer
+
+create and update /src/utils/cloudinary
+
+update .env
