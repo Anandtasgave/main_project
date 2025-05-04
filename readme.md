@@ -49,3 +49,21 @@ create and update /src/utils/asyncHandler
 create and update /src/utils/ApiError
 
 create and update /src/utils/ApiResponse
+
+//4
+
+create and update /src/models/user
+
+create and update /src/models/video
+
+npm i mongoose-aggregate-paginate-v2
+
+npm i bcrypt jsonwebtoken
+
+update .env  
+    ACCESS_TOKEN_SECRET=yt-project
+    ACCESS_TOKEN_EXPIRY=1d
+    REFRESH_TOKEN_SECRET=yt-backend
+    REFRESH_TOKEN_EXPIRY=10d
+
+update /src/models/user
