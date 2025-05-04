@@ -77,3 +77,5 @@ npm i multer
 create and update /src/utils/cloudinary
 
 update .env
+
+//6
