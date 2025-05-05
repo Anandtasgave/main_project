@@ -84,4 +84,11 @@ update usercontroller , user routes, app.js
  
 test route on postman
 
-//7
+// part 2
+
+//1 
+update user.conntroller.js
+
+create and update /src/middlewares/auth.middleware.js
+
+update /src/routes/user.routes.js
